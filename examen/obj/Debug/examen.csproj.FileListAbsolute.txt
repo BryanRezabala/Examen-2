@@ -1,0 +1,8 @@
+C:\Users\Home\Desktop\Metodos numericos\POO\examen\bin\Debug\examen.exe.config
+C:\Users\Home\Desktop\Metodos numericos\POO\examen\bin\Debug\examen.exe
+C:\Users\Home\Desktop\Metodos numericos\POO\examen\bin\Debug\examen.pdb
+C:\Users\Home\Desktop\Metodos numericos\POO\examen\obj\Debug\examen.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Metodos numericos\POO\examen\obj\Debug\examen.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home\Desktop\Metodos numericos\POO\examen\obj\Debug\examen.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Metodos numericos\POO\examen\obj\Debug\examen.exe
+C:\Users\Home\Desktop\Metodos numericos\POO\examen\obj\Debug\examen.pdb
